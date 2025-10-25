@@ -8,6 +8,9 @@ A high-performance **Smoothed Particle Hydrodynamics (SPH)** fluid simulator imp
 https://github.com/user-attachments/assets/8f17600e-70de-4376-b236-670e71dcee76
 
 
+https://github.com/user-attachments/assets/c4925b3d-3875-4799-bfbd-9db17815a74f
+
+
 ---
 
 ## 🎯 Key Features
@@ -88,11 +91,11 @@ This project implements **SPH (Smoothed Particle Hydrodynamics)** with a focus o
 
 ## 📽️ Media
 
-- Simulation video placeholder:  
-  `![Video Placeholder](path-to-your-video.gif)`  
+<img width="900" height="891" alt="image" src="https://github.com/user-attachments/assets/9f86068c-163b-485a-91ab-70a049779ffd" />
 
-- Screenshot placeholder:  
-  `![Screenshot](path-to-your-screenshot.png)`
+
+
+<img width="897" height="878" alt="image" src="https://github.com/user-attachments/assets/a0d1e868-42a1-4026-9718-adffffc7bc5f" />
 
 ---
 
