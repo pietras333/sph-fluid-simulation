@@ -1,8 +1,12 @@
 # 🌊 Hydrodynamics SPH Simulator
 
-![Banner](path-to-your-banner-image)
+<img width="1916" height="887" alt="image" src="https://github.com/user-attachments/assets/cabff4a4-5e20-483f-8886-b570f5fc1743" />
 
 A high-performance **Smoothed Particle Hydrodynamics (SPH)** fluid simulator implemented in **Unity**, capable of simulating 10,000 particles at **30 FPS** on modest hardware. Inspired by **Sebastian Lague**'s tutorials and the scientific work in [MDPI 2023: SPH Fluid Simulation](https://www.mdpi.com/2076-3417/15/17/9706).
+
+
+https://github.com/user-attachments/assets/8f17600e-70de-4376-b236-670e71dcee76
+
 
 ---
 
